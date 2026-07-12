@@ -1,201 +1,156 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Srinivas Rao
+<h1 align="center">Srinivas Rao</h1>
+<h3 align="center">AI/ML Engineer • Backend Developer • Database Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Backend+Developer;Building+LLM+Powered+Applications;Python+%7C+FastAPI+%7C+Django;RAG+%7C+LangChain+%7C+Vector+Databases" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SRINIVASRAOAMMANGOD">
-    <img src="https://img.shields.io/github/followers/SRINIVASRAOAMMANGOD?label=Followers&style=for-the-badge">
+  <a href="https://www.linkedin.com/in/srinivasammangod">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SRINIVASRAOAMMANGOD&style=for-the-badge&color=blue">
+  <a href="mailto:srinivasacademics@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://srinivasraoportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## About
 
-🎓 Final Year Computer Science Student
+Computer Science student at LBS College of Engineering building production-grade AI systems — RAG pipelines, multimodal recommendation engines, and LLM-integrated backends. Completed a virtual internship at **Infosys Springboard**, where I built a sentiment analysis engine and benchmarked sequential vs. parallel multiprocessing architectures for LLM inference.
 
-💻 AI • Backend • Full Stack Developer
+Currently **Campus Co-Lead at MuLearn LBSCEK**, leading a 500+ member student community, and **UG Degree Representative (CSE)**.
 
-🚀 Passionate about building intelligent applications using LLMs, Retrieval-Augmented Generation (RAG), FastAPI and Django.
-
-🌱 Currently learning
-
-- LangGraph
-- AI Agents
-- Advanced RAG
-- System Design
-
-👨‍💼 Leadership
-
-- Campus Co-Lead @ MuLearn LBSCEK
-- Department Secretary (CSE)
-- UG Degree Representative
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| **5+ yrs** | **7+** | **500+** | **5** |
+| Coding Experience | Projects Shipped | Community Reach | Certifications |
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 👗 StyleSense — AI Fashion Recommendation System
+### 🎨 StyleSense — Multimodal Fashion Recommendation System
+End-to-end AI system combining LLMs, Computer Vision, and Vector Search for personalized outfit recommendations.
+- Hybrid retrieval pipeline integrating **Gemini + CLIP + ChromaDB** for semantic search
+- Rule-based compatibility engine ranking full outfits by user intent (gender, age, style)
+- Deployed on Hugging Face Spaces using precomputed CLIP embeddings from Google Colab
 
-- Multimodal Fashion Recommendation
-- CLIP + Gemini + ChromaDB
-- Complete Outfit Recommendation Engine
+`Python` `Streamlit` `Gemini` `ChromaDB` `CLIP` `PyTorch`
 
 ---
 
-### 📚 Developer Onboarding Assistant
+### 📚 Developer Onboarding Assistant — RAG System
+Retrieval-Augmented Generation system for source-grounded Q&A over PDF, TXT, and Markdown documents.
+- FastAPI + ChromaDB document ingestion pipeline with recursive character text splitting and metadata tracking
+- Cut memory footprint by replacing local embeddings with OpenRouter API calls
 
-- Retrieval-Augmented Generation
-- FastAPI
-- ChromaDB
-- OpenRouter
-- Streamlit
+`FastAPI` `Python` `ChromaDB` `OpenRouter` `Streamlit`
+
+---
+
+### 💎 Pragathi Jewellery — Full-Stack E-Commerce (Freelance)
+Full-stack product showcase platform for a jewellery business.
+- Django + PostgreSQL + Supabase backend with Cloudinary-powered media delivery at scale
+- Interactive admin dashboards with full CRUD and dynamic category filtering
+
+`Django` `PostgreSQL` `Cloudinary` `Supabase`
 
 ---
 
 ### 🎤 AI Stem Karaoke Studio
+AI-powered audio separation platform using pre-trained Demucs models.
+- Vocal stripping, stem separation, and custom audio enhancers
+- Interactive multi-track waveform visualizers, Dockerized on Hugging Face Spaces
 
-- Flask
-- PyTorch
-- Demucs
-- Voice Analysis
-- AI Music Separation
+`Flask` `PyTorch` `Demucs` `Docker`
 
----
+<details>
+<summary><strong>More projects →</strong></summary>
+<br>
 
-### 💎 Pragathi Jewellery
+**Tech Fest Management System** — Django platform for event/venue/registration management with MySQL backend
+`Django` `MySQL` `Bootstrap`
 
-- Django
-- Product Management
-- Responsive E-Commerce Platform
-- Cloudinary Integration
+**HR Management System** — Lightweight HR dashboard with secure session auth and full CRUD employee records
+`Django` `SQLite` `JavaScript`
 
----
+**Jhatpat Brushcheck** — Hackathon project classifying toothbrush cleanliness via a Teachable Machine image classifier served through Flask
+`TensorFlow` `Flask`
 
-# 🛠 Tech Stack
+**Bank Console System** — OOP-based console ledger tool with custom Pickle-based serialization
+`Python`
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
-</p>
-
-### AI & ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-**Also Experienced In**
-
-- LangChain
-- LangGraph
-- ChromaDB
-- OpenRouter
-- HuggingFace
-- RAG
-- Prompt Engineering
-- CLIP
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux"/>
-</p>
+</details>
 
 ---
 
-# 📈 GitHub Statistics
+## Professional Experience
+
+**Intern — Python Stack, Infosys Springboard Virtual Internship 6.0** · *Sep–Nov 2025*
+- Designed and deployed a sentiment analysis project on Twitter dataset records
+- Ran a comparative study: lexicon-based parsing vs. modern LLM inference
+- Benchmarked execution times across sequential vs. parallel multiprocessing architectures
+
+**Campus Co-Lead — MuLearn LBSCEK** · *Dec 2025–Present*
+- Leading a **500+ member** active learner community
+- Supervised outreach with the Regional Passport Office, serving **60+ participants**
+- Orchestrated campus operations at **IEDC Summit 2025** — Asia's largest entrepreneurship summit
+
+**Convenor — Teranis CSE Tech Fest** · *Feb–Mar 2026*
+- Led planning and execution of Teranis 2026, coordinating technical, cultural, and flagship events across the CSE department
+- Drove strong participation through end-to-end ownership of logistics, promotions, and registrations
+- As Core Coordinator (2025): drew **150+ attendees to a single event** and **550+ registrations** fest-wide
+
+**UG Degree Representative — CSE, LBSCEK** · *Feb 2026–Present*
+- Elected representative coordinating student-faculty relations and academic affairs
+
+---
+
+## Tech Stack
+
+**Backend Engineering**
+`Python` `FastAPI` `Flask` `Django` `REST APIs`
+
+**AI / LLM**
+`RAG` `LLM Integration` `Prompt Engineering` `ChromaDB` `Vector Databases` `OpenRouter API` `Hugging Face Transformers` `Sentence Transformers`
+
+**Machine Learning**
+`PyTorch` `Scikit-learn` `CLIP Embeddings` `Sentiment Analysis` `Computer Vision`
+
+**Database & Infrastructure**
+`PostgreSQL` `MySQL` `SQLite` `Git` `GitHub`
+
+**Deployment**
+`Hugging Face Spaces` `Docker` `Render` `Google Colab`
+
+---
+
+## Certifications
+
+- **Retrieval Augmented Generation (RAG)** — DeepLearning.AI
+- **Database Management System** — NPTEL
+- **Programming, Data Structures and Algorithms using Python** — NPTEL
+- **Python Foundation Certification** — Infosys Springboard
+
+---
+
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SRINIVASRAOAMMANGOD&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASRAOAMMANGOD&layout=compact&theme=tokyonight"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SRINIVASRAOAMMANGOD&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASRAOAMMANGOD&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SRINIVASRAOAMMANGOD&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SRINIVASRAOAMMANGOD&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASRAOAMMANGOD&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/srinivasammangod">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:srinivasacademics@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://srinivasraoportfolio.netlify.app">
-🌐 Portfolio
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> *"Code with purpose. Learn continuously. Build things that solve real problems."*
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SRINIVASRAOAMMANGOD/SRINIVASRAOAMMANGOD/output/snake.svg" alt="Snake animation"/>
-
+  <img src="https://streak-stats.demolab.com?user=SRINIVASRAOAMMANGOD&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  <em>Open to internships and backend/AI engineering roles.</em><br>
+  <a href="mailto:srinivasacademics@gmail.com">srinivasacademics@gmail.com</a> · 
+  <a href="https://www.linkedin.com/in/srinivasammangod">LinkedIn</a> · 
+  <a href="https://srinivasraoportfolio.netlify.app">Portfolio</a>
 </p>
