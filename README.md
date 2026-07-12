@@ -1,5 +1,8 @@
 <h1 align="center">Srinivas Rao</h1>
-<h3 align="center">AI/ML Engineer • Backend Developer • Database Architect</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Backend+Developer;Database+Architect;Building+RAG+%26+LLM+Systems" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivasammangod">
@@ -11,6 +14,10 @@
   <a href="https://srinivasraoportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pytorch,tensorflow&perline=6" />
 </p>
 
 ---
@@ -109,20 +116,19 @@ AI-powered audio separation platform using pre-trained Demucs models.
 
 ## Tech Stack
 
-**Backend Engineering**
-`Python` `FastAPI` `Flask` `Django` `REST APIs`
+**Languages & Backend**
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" /></p>
+`REST APIs`
 
 **AI / LLM**
-`RAG` `LLM Integration` `Prompt Engineering` `ChromaDB` `Vector Databases` `OpenRouter API` `Hugging Face Transformers` `Sentence Transformers`
-
-**Machine Learning**
-`PyTorch` `Scikit-learn` `CLIP Embeddings` `Sentiment Analysis` `Computer Vision`
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface" /></p>
+`RAG` `LLM Integration` `Prompt Engineering` `ChromaDB` `Vector Databases` `OpenRouter API` `Sentence Transformers` `CLIP Embeddings`
 
 **Database & Infrastructure**
-`PostgreSQL` `MySQL` `SQLite` `Git` `GitHub`
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker" /></p>
 
 **Deployment**
-`Hugging Face Spaces` `Docker` `Render` `Google Colab`
+`Hugging Face Spaces` `Render` `Google Colab`
 
 ---
 
